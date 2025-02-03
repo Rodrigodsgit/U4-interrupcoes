@@ -13,7 +13,7 @@
 // Stores numbers 0-9 in LED matrix format
 LedMatrixConfig *Numbers[10];
 
-// Number patterns for LED matrix (GREEN color)
+// Number patterns for LED matrix (Yellow color)
 LedMatrixConfig number_0 = {
     {{0.0, 0.0, 0.0}, {0.1, 0.1, 0.0}, {0.1, 0.1, 0.0}, {0.1, 0.1, 0.0}, {0.0, 0.0, 0.0}}, 
     {{0.0, 0.0, 0.0}, {0.1, 0.1, 0.0}, {0.0, 0.0, 0.0}, {0.1, 0.1, 0.0}, {0.0, 0.0, 0.0}}, 
